@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    margin:1rem;
+}
+
+.btn{
+    padding:0.5rem 1rem;
+}
+.child{
+    margin:1rem auto;
+    border: 1px solid black;
+    height:15rem;
+    width: 50rem;
+}
