@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(87, 158, 229);
+}
+div{
+    padding:3rem;
+    background-color: yellow;
+}
+
+ul{
+    padding:1rem;
+    background-color: red;
+}
+li{
+    background-color: pink;
+}
